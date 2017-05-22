@@ -1,0 +1,13 @@
+{
+    "name": "u2f-example",
+    "authors": [
+        "Andrew Benton"
+    ],
+    "dependencies": {
+        "derelict-util": "~>2.1.0",
+        "derelict-u2f": {
+            "path": "../"
+        }
+    },
+    "targetType": "executable"
+}

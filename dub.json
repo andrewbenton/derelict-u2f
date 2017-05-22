@@ -1,0 +1,12 @@
+{
+    "name": "derelict-u2f",
+    "authors": [
+        "Andrew Benton"
+    ],
+    "dependencies": {
+        "derelict-util": "~>2.1.0"
+    },
+    "description": "A derelict binding to libu2f",
+    "copyright": "Copyright © 2017, Andrew Benton",
+    "license": "BSL-1.0"
+}

@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"derelict-u2f": {"path":"../"},
+		"derelict-util": "2.1.0"
+	}
+}
